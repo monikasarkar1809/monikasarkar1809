@@ -29,8 +29,7 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Monika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=monikasarkar1809&show_icons=true&theme=tokyonight)  
+## 📊 GitHub Stats   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monikasarkar1809&layout=compact&theme=tokyonight)
 
 
