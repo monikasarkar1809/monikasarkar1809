@@ -32,8 +32,3 @@
   </a>
 </p>
 
----
-
-## 📊 GitHub Stats   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monikasarkar1809&layout=compact&theme=tokyonight)
----
