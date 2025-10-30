@@ -1,7 +1,6 @@
 # Hi 👋, I'm Monika Sarkar  
 ### A passionate **Salesforce QA Engineer | Software Quality Assurance | Manual & API Testing | CRM & Automation Enthusiast** from India  
 
-
 ## 🧰 Tools & Technologies
 
 <p align="left">
@@ -16,7 +15,6 @@
   <!-- Jira -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira" width="50" height="50"/>
 </p>
-
 ---
 ## 🌐 Connect With Me
 
@@ -34,15 +32,8 @@
   </a>
 </p>
 
-
 ---
 
 ## 📊 GitHub Stats   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monikasarkar1809&layout=compact&theme=tokyonight)
-
-
-
-⚡ **Fun fact**  
-I believe quality is not just testing — it’s caring about the user’s experience!
-
 ---
