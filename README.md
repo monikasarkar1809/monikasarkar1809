@@ -1,5 +1,5 @@
 # Hi 👋, I'm Monika Sarkar  
-### A passionate **Salesforce QA Engineer | Software Quality Assurance | Manual & API Testing | CRM & Automation Enthusiast** from India  
+### A passionate **Salesforce QA Engineer | Software Quality Assurance | Manual & API Testing | CRM & Automation Enthusiast** from India.
 
 ## 🧰 Tools & Technologies
 
