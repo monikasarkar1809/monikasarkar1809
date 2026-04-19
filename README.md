@@ -4,16 +4,11 @@
 ## 🧰 Tools & Technologies
 
 <p align="left">
-  <!-- Salesforce -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" alt="salesforce" width="50" height="50"/>
-  <!-- Selenium -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="selenium" width="50" height="50"/>
-  <!-- Postman -->
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
-  <!-- JMeter -->
-  <img src="https://jmeter.apache.org/images/jmeter_square.svg" alt="jmeter" width="50" height="50"/>
-  <!-- Jira -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" alt="salesforce" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="selenium" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50"/>
+  <img src="https://jmeter.apache.org/images/jmeter_square.svg" alt="jmeter" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira" width="50"/>
 </p>
 ---
 ## 🌐 Connect With Me
